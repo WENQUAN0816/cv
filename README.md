@@ -1,6 +1,6 @@
 # Academic CV for Malaysian University Applications
 
-This repository contains a LaTeX academic CV tailored for lecturer applications in Malaysia.
+This repository contains academic job application materials tailored for lecturer applications in Malaysia.
 
 Template basis:
 
@@ -12,11 +12,20 @@ Build:
 ```powershell
 xelatex -interaction=nonstopmode cv.tex
 xelatex -interaction=nonstopmode cv.tex
+xelatex -interaction=nonstopmode short_cv.tex
+xelatex -interaction=nonstopmode research_statement.tex
+xelatex -interaction=nonstopmode teaching_statement.tex
+xelatex -interaction=nonstopmode representative_publications_links.tex
 ```
 
 Output:
 
-- `cv.pdf`
+- `cv.pdf` — full academic CV
+- `short_cv.pdf` — two-page short CV / resume
+- `research_statement.pdf` — research statement on AI-assisted age-friendly environment assessment
+- `teaching_statement.pdf` — teaching statement for interior design / built environment lecturer applications
+- `representative_publications_links.pdf` — one-page DOI-linked list of five representative publications
+- `representative-publications/` — five selected representative publications, with DOI links and bundled open-access PDF where automated download succeeded
 
 Information still worth confirming before formal submission:
 
