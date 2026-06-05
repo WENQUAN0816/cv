@@ -29,7 +29,7 @@ Output:
 
 Information still worth confirming before formal submission:
 
-- Expected PhD completion date, if required by the application system.
+- Exact degree conferment date, once issued by Universiti Sains Malaysia.
 - Google Scholar profile, Scopus Author ID, Web of Science ResearcherID.
 - Available start date.
 - Studio/project supervision, assessment responsibilities, and student mentoring outcomes.
