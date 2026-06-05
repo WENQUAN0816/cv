@@ -1,0 +1,191 @@
+{
+  "publications": [
+    {
+      "group": "WoS SCIE/SSCI Publications",
+      "authors": "Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir",
+      "year": "2026",
+      "title": "A LSTM-based model predictive control method for unlocking the potential of building energy flexibility in Malaysian commercial buildings",
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-026-53501-8",
+      "tag": "(WoS SCIE, Q1; first author)"
+    },
+    {
+      "group": "WoS SCIE/SSCI Publications",
+      "authors": "Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir; Yanting Wu; Chaojiang Hu",
+      "year": "2026",
+      "title": "AFLE-HIV: developing an age-friendly living environment assessment framework for elderly HIV-infected individuals in China",
+      "journal": "BMC Public Health",
+      "doi": "10.1186/s12889-026-27748-9",
+      "tag": "(WoS SCIE, Q1; first author)"
+    },
+    {
+      "group": "WoS SCIE/SSCI Publications",
+      "authors": "Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir",
+      "year": "2026",
+      "title": "Transforming vacant rural school buildings into age-friendly facilities under China's aging and low-fertility context: A natural language processing–based evaluation framework",
+      "journal": "BMC Geriatrics",
+      "doi": "10.1186/s12877-025-06772-1",
+      "tag": "(WoS SCIE, Q1; first author)"
+    },
+    {
+      "group": "WoS SCIE/SSCI Publications",
+      "authors": "Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir",
+      "year": "2025",
+      "title": "A community public health emergency resilience assessment framework based on contrastive learning and hyperbolic embedding",
+      "journal": "Frontiers in Public Health",
+      "doi": "10.3389/fpubh.2025.1651331",
+      "tag": "(WoS SSCI, Q1; first author)"
+    },
+    {
+      "group": "WoS SCIE/SSCI Publications",
+      "authors": "Yanli Han; Quan Wen",
+      "year": "2026",
+      "title": "Emotion Recognition in Literary Texts via an Attention-Guided Dual-Stream Gated Fusion Network",
+      "journal": "IEEE Access",
+      "doi": "10.1109/ACCESS.2026.3686065",
+      "tag": "(WoS SCIE; second author; corresponding author)"
+    },
+    {
+      "group": "WoS SCIE/SSCI Publications",
+      "authors": "Wenjing Xu; Mazran Ismail; Syafizal Shahruddin; Wen Quan; Yingrui Li",
+      "year": "2025",
+      "title": "Exploring tourists' intentions to adopt augmented reality in cultural heritage museums: Insights from a modified technology acceptance model",
+      "journal": "SAGE Open",
+      "doi": "10.1177/21582440251339936",
+      "tag": "(WoS SSCI, Q1; co-author)"
+    },
+    {
+      "group": "WoS ESCI Publications",
+      "authors": "Jia Sheng Zhou; Mohd Jaki Bin Mamat; Quan Wen",
+      "year": "2025",
+      "title": "Analyzing the traditional rural cultural heritage of Lingnan region in China as the foundation for protection and development",
+      "journal": "International Journal of Conservation Science",
+      "doi": "10.36868/ijcs.2025.01.06",
+      "tag": "(WoS ESCI, Q1; co-author)"
+    },
+    {
+      "group": "WoS ESCI Publications",
+      "authors": "Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir",
+      "year": "2024",
+      "title": "Evaluating the residential environment of traditional settlements in northern Jiangxi, China: A multi-dimensional framework",
+      "journal": "Journal of Construction in Developing Countries",
+      "doi": "10.21315/jcdc.2024.29.s1.11",
+      "tag": "(WoS ESCI, Q4; first author)"
+    },
+    {
+      "group": "WoS ESCI Publications",
+      "authors": "Zhang Jing; Hasnanywati Hassan; Zalena Abdul Aziz; Khoo Terh Jing; Wen Quan",
+      "year": "2025",
+      "title": "Exploring the factors for the use of building information modelling (BIM) in historic buildings",
+      "journal": "Journal of Construction in Developing Countries",
+      "doi": "10.21315/jcdc.2025.30.s2.14",
+      "tag": "(WoS ESCI; co-author)"
+    },
+    {
+      "group": "Scopus-Indexed Publications",
+      "authors": "Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir; Jing Zhao; Zhang Jing",
+      "year": "2025",
+      "title": "Assessment and prediction model for community resilience in China based on GANs and random forest regression",
+      "journal": "Planning Malaysia",
+      "doi": "10.21837/pm.v23i38.1823",
+      "tag": "(Scopus-indexed; first author)"
+    },
+    {
+      "group": "Scopus-Indexed Publications",
+      "authors": "Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir; Jing Zhao; Zhang Jing",
+      "year": "2025",
+      "title": "Developing a comprehensive framework for assessing community resilience to public health emergencies in Henan Province: Insights from SciBERT analysis",
+      "journal": "Planning Malaysia",
+      "doi": "10.21837/pm.v23i38.1822",
+      "tag": "(Scopus-indexed; first author)"
+    },
+    {
+      "group": "Scopus-Indexed Publications",
+      "authors": "Yana Zhang; Azizan Marzuki; Bingliang Song; Feifei Zhang; Jiasheng Zhou; Quan Wen; Dahuai Zhao; Qingxin Zhang; Haixin Liu",
+      "year": "2025",
+      "title": "Influencing factors of residents' subjective well-being in rural tourism destinations: A case study of Licha village in Guangdong, China",
+      "journal": "Journal of Chinese Architecture and Urbanism",
+      "doi": "10.36922/jcau025340068",
+      "tag": "(Scopus-indexed; co-author)"
+    },
+    {
+      "group": "Scopus-Indexed Publications",
+      "authors": "Jing Zhao; Shida Irwana Omar; Hui Liu; Quan Wen",
+      "year": "2025",
+      "title": "Examining the effects of perceived value on behavioral intention of green tourists in Hulunbuir grassland, China",
+      "journal": "Planning Malaysia",
+      "doi": "10.21837/pm.v23i36.1752",
+      "tag": "(Scopus-indexed; co-author)"
+    },
+    {
+      "group": "Scopus-Indexed Publications",
+      "authors": "Jing Zhao; Shida Irwana Omar; Hui Liu; Quan Wen",
+      "year": "2025",
+      "title": "Study on the coupled and coordinated development of tourism economy and ecological environment in Chengdu city, China",
+      "journal": "Planning Malaysia",
+      "doi": "10.21837/pm.v23i36.1757",
+      "tag": "(Scopus-indexed; co-author)"
+    }
+  ],
+  "projects": [
+    {
+      "group": "PI-Led Research Projects",
+      "title": "Comprehensive Aging-in-Place Renovation Framework for Legacy Residential Communities in Henan Province",
+      "year": "2022",
+      "org": "Henan Provincial Federation of Social Sciences / Henan Provincial Social Science Research Fund | Project No. SKL-2022-608 | Role: Principal Investigator"
+    },
+    {
+      "group": "PI-Led Research Projects",
+      "title": "Innovative Universal Design Strategies for New Community Development in Henan Province",
+      "year": "2018",
+      "org": "Henan Provincial Federation of Social Sciences / Henan Provincial Social Science Research Fund | Project No. SKL-2018-490 (First Prize) | Role: Principal Investigator"
+    },
+    {
+      "group": "PI-Led Research Projects",
+      "title": "Interior Environment Design Strategies for Hospital Outpatient Departments in the Era of Telemedicine",
+      "year": "2020",
+      "org": "Henan Provincial Federation of Social Sciences / Henan Provincial Social Science Research Fund | Project No. SKL-2020-1566 | Role: Principal Investigator"
+    },
+    {
+      "group": "PI-Led Research Projects",
+      "title": "Integrated Healthcare-Housing Model for Community-Based Senior Living Facilities in Zhengzhou",
+      "year": "2018",
+      "org": "Zhengzhou Federation of Social Sciences Research Project | Project No. JX20190146 | Role: Principal Investigator"
+    },
+    {
+      "group": "PI-Led Research Projects",
+      "title": "Adaptive Renovation Strategies for Existing Long-term Care Facilities under COVID-19 Safety Protocols",
+      "year": "2021",
+      "org": "Henan Provincial Department of Education Research Fund | Project No. 2021-ZDJH-433 | Role: Principal Investigator"
+    },
+    {
+      "group": "Henan Provincial Department of Education Projects",
+      "title": "Sustainable Construction Waste Management and Resource Recovery Research",
+      "year": "2020",
+      "org": "Henan Provincial Department of Education Research Fund | Project No. 2020-ZDJH-477"
+    },
+    {
+      "group": "Henan Provincial Department of Education Projects",
+      "title": "Spatial Planning and Design Framework for Community Early Childhood Centers in Zhengzhou",
+      "year": "2021",
+      "org": "Henan Provincial Department of Education Research Fund | Project No. 2021-ZDJH-429"
+    }
+  ],
+  "teaching": [
+    "Architectural Design",
+    "Interior Design",
+    "Decorative Materials",
+    "Engineering Drawing Fundamentals",
+    "Architectural Surveying I & II",
+    "Building Structures",
+    "Design Software (PS, AI)",
+    "Computer-Aided Design (CAD)",
+    "Existing Building Renovation Design",
+    "Software Rendering Design",
+    "Architectural Space Design",
+    "BIM Software Introduction",
+    "Architectural Sketching",
+    "Architectural Investigation",
+    "History of Chinese & Foreign Architecture"
+  ]
+}
