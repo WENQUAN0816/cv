@@ -20,9 +20,7 @@ Output:
 
 Information still worth confirming before formal submission:
 
-- PhD completion status and exact award date.
+- Expected PhD completion date, if required by the application system.
 - Google Scholar profile, Scopus Author ID, Web of Science ResearcherID.
-- Current employment status after 2023 and available start date.
-- Courses taught with years, level, class size, and language of instruction.
-- Supervision/mentoring record.
-- Two or three academic referees with institutional emails.
+- Available start date.
+- Studio/project supervision, assessment responsibilities, and student mentoring outcomes.
